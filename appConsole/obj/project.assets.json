@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "interfaceAppConsole/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/interfaceAppConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/interfaceAppConsole.dll": {}
+        }
+      },
+      "libAppConsole/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "interfaceAppConsole": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/libAppConsole.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/libAppConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "interfaceAppConsole/1.0.0": {
+      "type": "project",
+      "path": "../interfaceAppConsole/interfaceAppConsole.csproj",
+      "msbuildProject": "../interfaceAppConsole/interfaceAppConsole.csproj"
+    },
+    "libAppConsole/1.0.0": {
+      "type": "project",
+      "path": "../libAppConsole/libAppConsole.csproj",
+      "msbuildProject": "../libAppConsole/libAppConsole.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "interfaceAppConsole >= 1.0.0",
+      "libAppConsole >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/junior/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/junior/Documentos/.Net/appConsole/appConsole.csproj",
+      "projectName": "appConsole",
+      "projectPath": "/home/junior/Documentos/.Net/appConsole/appConsole.csproj",
+      "packagesPath": "/home/junior/.nuget/packages/",
+      "outputPath": "/home/junior/Documentos/.Net/appConsole/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/junior/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/home/junior/Documentos/.Net/interfaceAppConsole/interfaceAppConsole.csproj": {
+              "projectPath": "/home/junior/Documentos/.Net/interfaceAppConsole/interfaceAppConsole.csproj"
+            },
+            "/home/junior/Documentos/.Net/libAppConsole/libAppConsole.csproj": {
+              "projectPath": "/home/junior/Documentos/.Net/libAppConsole/libAppConsole.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

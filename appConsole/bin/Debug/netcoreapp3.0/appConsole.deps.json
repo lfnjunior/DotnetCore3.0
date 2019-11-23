@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "appConsole/1.0.0": {
+        "dependencies": {
+          "interfaceAppConsole": "1.0.0",
+          "libAppConsole": "1.0.0"
+        },
+        "runtime": {
+          "appConsole.dll": {}
+        }
+      },
+      "interfaceAppConsole/1.0.0": {
+        "runtime": {
+          "interfaceAppConsole.dll": {}
+        }
+      },
+      "libAppConsole/1.0.0": {
+        "dependencies": {
+          "interfaceAppConsole": "1.0.0"
+        },
+        "runtime": {
+          "libAppConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "appConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "interfaceAppConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libAppConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

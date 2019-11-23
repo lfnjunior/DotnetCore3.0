@@ -1,0 +1,16 @@
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/appConsole
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/appConsole.deps.json
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/appConsole.runtimeconfig.json
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/appConsole.runtimeconfig.dev.json
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/appConsole.dll
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/appConsole.pdb
+/home/junior/Documentos/.Net/appConsole/obj/Debug/netcoreapp3.0/appConsole.csprojAssemblyReference.cache
+/home/junior/Documentos/.Net/appConsole/obj/Debug/netcoreapp3.0/appConsole.AssemblyInfoInputs.cache
+/home/junior/Documentos/.Net/appConsole/obj/Debug/netcoreapp3.0/appConsole.AssemblyInfo.cs
+/home/junior/Documentos/.Net/appConsole/obj/Debug/netcoreapp3.0/appConsole.dll
+/home/junior/Documentos/.Net/appConsole/obj/Debug/netcoreapp3.0/appConsole.pdb
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/libAppConsole.dll
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/interfaceAppConsole.dll
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/libAppConsole.pdb
+/home/junior/Documentos/.Net/appConsole/bin/Debug/netcoreapp3.0/interfaceAppConsole.pdb
+/home/junior/Documentos/.Net/appConsole/obj/Debug/netcoreapp3.0/appConsole.csproj.CopyComplete
