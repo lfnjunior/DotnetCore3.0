@@ -6,7 +6,15 @@
 ```
  git clone https://github.com/lfnjunior/DotnetCore3.0.git
 ```
+- Change to project directory
+```
+cd DotnetCore3.0/
+```
 
+- Restore bin & obj folders
+```
+dotnet restore
+```
 - Run the console app :
 ```
  dotnet run --project appConsole/
