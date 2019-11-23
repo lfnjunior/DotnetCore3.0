@@ -1,1 +1,8 @@
 .vscode
+.vs
+appConsole/bin
+appConsole/obj
+interfaceAppConsole/bin
+interfaceAppConsole/obj
+libAppConsole/bin
+libAppConsole/obj

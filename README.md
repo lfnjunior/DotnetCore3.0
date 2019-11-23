@@ -3,14 +3,14 @@
 ### Test The Application:
 
 - Clone the repository:
-``
+```
  git clone https://github.com/lfnjunior/DotnetCore3.0.git
-``
+```
 
 - Run the console app :
-``
+```
  dotnet run --project appConsole/
-``
+```
 
 #### Acquired knowledge:
 
