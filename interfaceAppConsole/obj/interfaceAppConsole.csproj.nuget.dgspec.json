@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/junior/Documentos/.Net/interfaceAppConsole/interfaceAppConsole.csproj": {}
+    "/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/interfaceAppConsole.csproj": {}
   },
   "projects": {
-    "/home/junior/Documentos/.Net/interfaceAppConsole/interfaceAppConsole.csproj": {
+    "/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/interfaceAppConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/junior/Documentos/.Net/interfaceAppConsole/interfaceAppConsole.csproj",
+        "projectUniqueName": "/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/interfaceAppConsole.csproj",
         "projectName": "interfaceAppConsole",
-        "projectPath": "/home/junior/Documentos/.Net/interfaceAppConsole/interfaceAppConsole.csproj",
+        "projectPath": "/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/interfaceAppConsole.csproj",
         "packagesPath": "/home/junior/.nuget/packages/",
-        "outputPath": "/home/junior/Documentos/.Net/interfaceAppConsole/obj/",
+        "outputPath": "/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/junior/.nuget/NuGet/NuGet.Config"

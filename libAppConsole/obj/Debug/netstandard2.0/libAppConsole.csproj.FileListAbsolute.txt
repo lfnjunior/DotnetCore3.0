@@ -8,3 +8,14 @@
 /home/junior/Documentos/.Net/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.csproj.CopyComplete
 /home/junior/Documentos/.Net/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.dll
 /home/junior/Documentos/.Net/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.pdb
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/bin/Debug/netstandard2.0/libAppConsole.deps.json
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/bin/Debug/netstandard2.0/libAppConsole.dll
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/bin/Debug/netstandard2.0/libAppConsole.pdb
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/bin/Debug/netstandard2.0/interfaceAppConsole.dll
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/bin/Debug/netstandard2.0/interfaceAppConsole.pdb
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.csprojAssemblyReference.cache
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.AssemblyInfoInputs.cache
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.AssemblyInfo.cs
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.csproj.CopyComplete
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.dll
+/home/junior/Documentos/.Net/DotnetCore3.0/libAppConsole/obj/Debug/netstandard2.0/libAppConsole.pdb

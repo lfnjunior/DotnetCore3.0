@@ -6,3 +6,11 @@
 /home/junior/Documentos/.Net/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.AssemblyInfo.cs
 /home/junior/Documentos/.Net/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.dll
 /home/junior/Documentos/.Net/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.pdb
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/bin/Debug/netstandard2.0/interfaceAppConsole.deps.json
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/bin/Debug/netstandard2.0/interfaceAppConsole.dll
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/bin/Debug/netstandard2.0/interfaceAppConsole.pdb
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.csprojAssemblyReference.cache
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.AssemblyInfoInputs.cache
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.AssemblyInfo.cs
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.dll
+/home/junior/Documentos/.Net/DotnetCore3.0/interfaceAppConsole/obj/Debug/netstandard2.0/interfaceAppConsole.pdb
